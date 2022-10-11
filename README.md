@@ -7,6 +7,6 @@ Hello World!
               ||--0-w | \/
               ||     ||
 
-![Toanbku's GitHub stats](https://github-readme-stats.vercel.app/api?username=toanbku&count_private=true)
+## About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=toanbku&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanbku&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
